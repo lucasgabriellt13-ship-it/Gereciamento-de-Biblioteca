@@ -1,5 +1,24 @@
 # Gerenciamento de Biblioteca
 
+#Orientador
+Hudson Neves 
+#Instituição 
+(Uniceplac) Centro Universitário do Planalto Central Apparecido dos Santos
+
+## Identificação do Grupo
+
+Davi Santana Alves Alecrim
+
+Ian Victor Viana de Jesus
+
+Ícaro Ruan Viana de Jesus
+
+Lucas Gabriel Alves de Souza
+
+Luiza Silva Freitas Hortelão
+
+---
+
 ## 📚 Sobre o projeto
 
 Este projeto foi desenvolvido como um sistema simples de gerenciamento de uma biblioteca, utilizando a linguagem **Java** e conceitos básicos de Programação Orientada a Objetos.
