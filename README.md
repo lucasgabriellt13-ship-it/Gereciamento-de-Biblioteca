@@ -1,12 +1,8 @@
 # Gerenciamento de Biblioteca
 
-#Orientador
+Orientador - Hudson Neves 
 
-Hudson Neves 
-
-#Instituição 
-
-(Uniceplac) Centro Universitário do Planalto Central Apparecido dos Santos
+Instituição - (Uniceplac) Centro Universitário do Planalto Central Apparecido dos Santos
 
 ## Identificação do Grupo
 
